@@ -33,6 +33,7 @@ Tecnogias que estou trabalhando :
 
 • PL/SQL Developer
 
+
 Tecnologias que já trabalhei e estudei em outros momentos da minha carreira:
 
 • Delphi
