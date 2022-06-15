@@ -21,11 +21,13 @@ Bom, aqui no meu GITHUB, tenho um monte de repositórios com diversas tecnologia
 
 Tecnogias que estou trabalhando :
 
-• Desenvolvimento Backend (C# e JQuery + Ajax) com Oracle
+• Desenvolvimento Frontend (C# e JQuery + Ajax) com Oracle
 
-• Desenvolvimento Mobile (Flutter e Android) com Mysql
+• Desenvolvimento Mobile (Flutter e Android) 
 
 • Desenvolvimento Backend (Asp.net core C#) com MS SQL Server
+
+• Desenvolvimento Backend (PHP Bootstrap) com Mysql
 
 • Programação funcional
 
