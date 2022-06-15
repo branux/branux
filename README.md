@@ -20,6 +20,7 @@ Meu nome é Mauricio Alves e atualmento sou desenvolver Sênior.
 Bom, aqui no meu GITHUB, tenho um monte de repositórios com diversas tecnologias.
 
 Tecnogias que estou trabalhando :
+
 • Desenvolvimento Backend (C# e JQuery + Ajax) com Oracle
 
 • Desenvolvimento Mobile (Flutter e Android) com Mysql
@@ -33,6 +34,7 @@ Tecnogias que estou trabalhando :
 • PL/SQL Developer
 
 Tecnologias que já trabalhei e estudei em outros momentos da minha carreira:
+
 • Delphi
 
 • Angular
