@@ -48,12 +48,19 @@ Tecnologias que já trabalhei e estudei em outros momentos da minha carreira:
 • Swagger
 
 • PHP (Laravel)
+
 • Python
+
 • Lua
+
 • Delphi
+
 • Banco de dados (SQL Server, Oracle(PL), Mysql, Firebird e PostgresSQL )
+
 • Automação com ( STM 32 Microcontroller) 
+
 • Automação com ( Nodemcu ESP8266)
+
 • Drones montagem e configuração com controladoras ( DJI A1, A2 e Pixhawk)
 
 Também tenho formação em eletrônica!
