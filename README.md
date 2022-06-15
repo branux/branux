@@ -21,20 +21,32 @@ Bom, aqui no meu GITHUB, tenho um monte de repositórios com diversas tecnologia
 
 Tecnogias que estou trabalhando :
 • Desenvolvimento Backend (C# e JQuery + Ajax) com Oracle
+
 • Desenvolvimento Mobile (Flutter e Android) com Mysql
+
 • Desenvolvimento Backend (Asp.net core C#) com MS SQL Server
+
 • Programação funcional
+
 • Arquitetura MVC e MVVM
+
 • PL/SQL Developer
 
 Tecnologias que já trabalhei e estudei em outros momentos da minha carreira:
 • Delphi
+
 • Angular
+
 • C#
+
 • VB.net e VB6
+
 • Java
+
 • .NET (Core)
+
 • Swagger
+
 • PHP (Laravel)
 • Python
 • Lua
