@@ -57,7 +57,7 @@ Tecnologias que já trabalhei e estudei em outros momentos da minha carreira:
 
 • Banco de dados (SQL Server, Oracle(PL), Mysql, Firebird e PostgresSQL )
 
-• Automação com ( STM 32 Microcontroller) 
+• Automação com ( STM32 Microcontroller) 
 
 • Automação com ( Nodemcu ESP8266)
 
